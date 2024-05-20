@@ -1,11 +1,11 @@
 [
     {
-        "category": "warehouse",
+        "category": "company",
         "question": "데이터 수집 중입니다.",
         "answer": "데이터 수집 중입니다."
     },
     {
-        "category": "delivery",
+        "category": "parcel",
         "question": "데이터 수집 중입니다.",
         "answer": "데이터 수집 중입니다."
     }
